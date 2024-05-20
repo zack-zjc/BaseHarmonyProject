@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "基础公共功能库",
+  "main": "Index.ets",
+  "author": "zack",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/axios": "^2.2.0"
+  }
+}
