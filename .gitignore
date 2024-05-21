@@ -1,0 +1,6 @@
+oh_modules/
+.hvigor/
+.idea/
+github-key
+local.properties
+oh-package-lock.json5
