@@ -1,17 +1,15 @@
+
 @Entry
 @Component
 struct Index {
   @State message: string = 'Hello World';
 
+  scroller:Scroller =  new Scroller()
+
   build() {
-    Row() {
-      Column() {
-        Text(this.message)
-          .fontSize(50)
-          .fontWeight(FontWeight.Bold)
-      }
-      .width('100%')
+    Column(){
+
     }
-    .height('100%')
   }
+
 }

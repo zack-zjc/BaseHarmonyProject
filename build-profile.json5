@@ -35,6 +35,10 @@
     {
       "name": "common",
       "srcPath": "./common"
+    },
+    {
+      "name": "component",
+      "srcPath": "./component"
     }
   ]
 }
